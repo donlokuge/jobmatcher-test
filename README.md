@@ -1,4 +1,4 @@
-# swipejobs-test
+# jobmatcher-test
 
 Steps to run the project:
 1. Open console, and change to the root directory of the project.
